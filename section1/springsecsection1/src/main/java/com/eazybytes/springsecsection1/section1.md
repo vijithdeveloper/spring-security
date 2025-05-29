@@ -17,3 +17,7 @@
 9. application.properties : add username and password
 
 10. ![image](https://github.com/user-attachments/assets/a7438f99-4a66-4926-a51c-13dd4c62bdf6)
+
+11. logging.level.org.springframework.security=${SPRING_SECURITY_LOG_LEVEL:TRACE}
+
+12. ![image](https://github.com/user-attachments/assets/78f9b10e-f2f6-4604-8042-77eb4231dd57)
